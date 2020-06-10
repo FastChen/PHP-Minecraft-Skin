@@ -22,3 +22,6 @@
 **🧾 API使用说明 / API Use**
 
 - [无聊写了个Minecraft皮肤获取，分享一些API](https://fastchen.com/works/minecraftskin.html)
+
+**🖼 图片 / image**
+![IMG](./img.png)
