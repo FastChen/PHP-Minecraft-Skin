@@ -12,3 +12,13 @@
 **🎈 示例 / Example**
 
 - http://yoursite/?name=jeb_&avatarsize=256
+
+## 其他信息 / Other info
+
+**💻 其他语言 / Other Programming language**
+
+- [C#-NullCraft-Minecraft-Skin](https://github.com/FastChen/NullCraft-Minecraft-Skin)
+
+**🧾 API使用说明 / API Use**
+
+- [无聊写了个Minecraft皮肤获取，分享一些API](https://fastchen.com/works/minecraftskin.html)
