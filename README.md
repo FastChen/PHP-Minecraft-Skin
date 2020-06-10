@@ -8,6 +8,7 @@
 **🔧 选项 / Options**
 
 - &avatarsize=256 设置头像大小 Change avatar size(默认 / default 64x64)
+
 **🎈 示例 / Example**
 
 - http://yoursite/?name=jeb_&avatarsize=256
