@@ -5,24 +5,24 @@
 
 - http(s)://yoursite/?=your minecraft id(not uuid)
 
-**🔧 选项 / Options**
+**🔧  选项 / Options**
 
 - &avatarsize=256 设置头像大小 Change avatar size(默认 / default 64x64)
 
-**🎈 示例 / Example**
+**🎈  示例 / Example**
 
 - http://yoursite/?name=jeb_&avatarsize=256
 
 ## 其他信息 / Other info
 
-**💻 其他语言 / Other Programming language**
+**💻  其他语言 / Other Programming language**
 
 - [C#-NullCraft-Minecraft-Skin](https://github.com/FastChen/NullCraft-Minecraft-Skin)
 
-**🧾 API使用说明 / API Use**
+**🧾  API使用说明 / API Use**
 
 - [无聊写了个Minecraft皮肤获取，分享一些API](https://fastchen.com/works/minecraftskin.html)
 
-**🖼 图片 / image**
+**🖼  图片 / image**
 
 ![IMG](./img.png)
