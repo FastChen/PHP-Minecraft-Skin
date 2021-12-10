@@ -5,7 +5,6 @@
  GitHub: https://github.com/FastChen/PHP-Minecraft-Skin
  URL: https://fastchen.com/works/
  Principle： https://fastchen.com/works/minecraftskin.html
-
  - HOT TO USE -
  https://yousite/?name=your minecraft id (NOT UUID)
  &avatarsize=256 Change avatar size(default 64x64)
@@ -37,7 +36,10 @@
             //裁剪并缩放创建头像
             $copyskin = imagecreatetruecolor($size_avatar, $size_avatar);
             $originalskin = imagecreatefromstring(file_get_contents($de_textures['textures']['SKIN']['url']));
+            //头部
             imagecopyresized($copyskin, $originalskin, 0, 0, 8, 8, $size_avatar, $size_avatar, 8, 8);
+            //遮罩
+            imagecopyresized($copyskin, $originalskin, 0, 0, 40, 8, $size_avatar, $size_avatar, 8, 8);
             //保存生成后头像
             //输出拷贝后图像
             //header("Content-type: image/jpeg");
